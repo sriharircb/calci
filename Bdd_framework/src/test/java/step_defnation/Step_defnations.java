@@ -29,7 +29,6 @@ public class Step_defnations extends Base
 	public void click_on_digit(Integer int1) {
 		repo.click_on_digit_6();
 		System.out.println("sucessfully clicked on digit 6 ");
-		System.out.println();
 	    
 	}
 	
